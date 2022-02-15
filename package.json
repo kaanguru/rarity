@@ -1,0 +1,13 @@
+{
+  "name": "rarity",
+  "version": "1.0.0",
+  "description": "rarity to json data",
+  "main": "index.js",
+  "author": "kaanguru",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all": "node index.js all",
+    "seperate": "node index.js seperate"
+  }
+}

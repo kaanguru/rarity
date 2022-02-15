@@ -1,0 +1,12 @@
+[
+  { "trait": "Brown", "weight": 12, "occurrence": "461 in 4444 editions (10.37 %)", "name": "Brown", "percentage": 10.37, "quantity": 461 },
+  { "trait": "Crimson", "weight": 10, "occurrence": "369 in 4444 editions (8.30 %)", "name": "Crimson", "percentage": 8.3, "quantity": 369 },
+  { "trait": "DarkGreen", "weight": 8, "occurrence": "340 in 4444 editions (7.65 %)", "name": "Dark Green", "percentage": 7.65, "quantity": 340 },
+  { "trait": "DarkGreenRound", "weight": 7, "occurrence": "281 in 4444 editions (6.32 %)", "name": "Dark Green Round", "percentage": 6.32, "quantity": 281 },
+  { "trait": "Gray", "weight": 3, "occurrence": "105 in 4444 editions (2.36 %)", "name": "Gray", "percentage": 2.36, "quantity": 105 },
+  { "trait": "Green", "weight": 9, "occurrence": "337 in 4444 editions (7.58 %)", "name": "Green", "percentage": 7.58, "quantity": 337 },
+  { "trait": "LightGreen", "weight": 16, "occurrence": "675 in 4444 editions (15.19 %)", "name": "Light Green", "percentage": 15.19, "quantity": 675 },
+  { "trait": "NoFX", "weight": 20, "occurrence": "808 in 4444 editions (18.18 %)", "name": "No FX", "percentage": 18.18, "quantity": 808 },
+  { "trait": "Salmon", "weight": 17, "occurrence": "682 in 4444 editions (15.35 %)", "name": "Salmon", "percentage": 15.35, "quantity": 682 },
+  { "trait": "Yellow", "weight": 10, "occurrence": "386 in 4444 editions (8.69 %)", "name": "Yellow", "percentage": 8.69, "quantity": 386 }
+]

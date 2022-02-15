@@ -1,0 +1,12 @@
+[
+  { "trait": "ConcertBlockChain", "weight": 15, "occurrence": "785 in 4444 editions (17.66 %)", "name": "Concert Block Chain", "percentage": 17.66, "quantity": 785 },
+  { "trait": "ConcertFuture", "weight": 5, "occurrence": "280 in 4444 editions (6.30 %)", "name": "Concert Future", "percentage": 6.3, "quantity": 280 },
+  { "trait": "ConcertThisMoment", "weight": 6, "occurrence": "322 in 4444 editions (7.25 %)", "name": "Concert This Moment", "percentage": 7.25, "quantity": 322 },
+  { "trait": "ConcertWAGMI", "weight": 10, "occurrence": "485 in 4444 editions (10.91 %)", "name": "Concert WAGMI", "percentage": 10.91, "quantity": 485 },
+  { "trait": "GraffitiDiomandHands", "weight": 10, "occurrence": "489 in 4444 editions (11.00 %)", "name": "Graffiti Diomand Hands", "percentage": 11, "quantity": 489 },
+  { "trait": "GraffitiMooning", "weight": 10, "occurrence": "498 in 4444 editions (11.21 %)", "name": "Graffiti Mooning", "percentage": 11.21, "quantity": 498 },
+  { "trait": "GraffitiWebThree", "weight": 10, "occurrence": "469 in 4444 editions (10.55 %)", "name": "Graffiti Web Three", "percentage": 10.55, "quantity": 469 },
+  { "trait": "StudioGibson", "weight": 9, "occurrence": "419 in 4444 editions (9.43 %)", "name": "Studio Gibson", "percentage": 9.43, "quantity": 419 },
+  { "trait": "StudioMarshall", "weight": 6, "occurrence": "320 in 4444 editions (7.20 %)", "name": "Studio Marshall", "percentage": 7.2, "quantity": 320 },
+  { "trait": "StudioPeavey", "weight": 7, "occurrence": "377 in 4444 editions (8.48 %)", "name": "Studio Peavey", "percentage": 8.48, "quantity": 377 }
+]
